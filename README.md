@@ -4,10 +4,13 @@
 
 <div style="width:100%;">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan1313&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+    <div style="width:50%;">
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan1313&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+    </div>
     
+    <div style="width:50%;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-    
+    </div>
 </div
 
 
