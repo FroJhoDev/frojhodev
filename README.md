@@ -1,6 +1,6 @@
 [![MasterHead](https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif)](https://github.com/jonathan1313)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan1313&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan1313&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jonathan1313/jonathan1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
