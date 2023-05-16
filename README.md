@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif)](https://github.com/jonathan1313)
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/05/16/27/21/1000_F_516272131_oY2Xbtz44w8ToadTG497G7HesMYrrxXW.jpg)](https://github.com/jonathan1313)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan1313&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
