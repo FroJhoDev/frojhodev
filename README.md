@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/Dzs9466)](https://github.com/jonathan1313)
+[![MasterHead](https://i.ibb.co/WGqkndd/banner-jonathan1313.png)](https://github.com/jonathan1313)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan1313&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
