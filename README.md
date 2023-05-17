@@ -8,9 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight"/>
 </div>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonathan1313)](https://git.io/streak-stats)
-
- ![Snake animation](https://github.com/jonathan1313/jonathan1313/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonathan1313&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 <!--
 **jonathan1313/jonathan1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
