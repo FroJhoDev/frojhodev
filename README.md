@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7800AC&width=435&lines=May+the+Force+be+with+you;First+learn+stand%2C+then+learn+fly;Life+moves+pretty+fast;There%E2%80%99s+no+place+like+home;Where+we%E2%80%99re+going+we+don%E2%80%99t+need+roads;Not+every+man+really+lives)](https://git.io/typing-svg)
 
-## Skills :collision:
+## :collision: Skills 
 <code><img height="40" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
