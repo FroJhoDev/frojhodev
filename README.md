@@ -1,6 +1,6 @@
 [![MasterHead](https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif)](https://github.com/jonathan1313)
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif">
+<img align="right" alt="Coding" width="700" src="https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7800AC&width=435&lines=May+the+Force+be+with+you;First+learn+stand%2C+then+learn+fly;Life+moves+pretty+fast;There%E2%80%99s+no+place+like+home;Where+we%E2%80%99re+going+we+don%E2%80%99t+need+roads;Not+every+man+really+lives)](https://git.io/typing-svg)
 
