@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/jonathan1313">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=jonathan1313&show_icons=true&theme=tokyonight"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight"/>
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight"/>
 </div>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonathan1313&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
