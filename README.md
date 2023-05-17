@@ -27,12 +27,11 @@
   
 <div>
   <a href="https://github.com/jonathan1313">
-   <img align="center" height="170" src="http://github-readme-streak-stats.herokuapp.com?user=jonathan1313&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats"/>
-  <img align="center" height="170" src="https://media.tenor.com/jN-MC4lRlsEAAAAC/anime-rain.gif"/>
+   <img align="center" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=jonathan1313&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats"/>
+  <img align="center" height="200" src="https://media.tenor.com/jN-MC4lRlsEAAAAC/anime-rain.gif"/>
 </div>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonathan1313&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-<img align="right" alt="Coding" height="170" src="https://media.tenor.com/jN-MC4lRlsEAAAAC/anime-rain.gif">
   
 ## :paperclip: Contact 
 <div> 
