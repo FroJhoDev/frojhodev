@@ -26,6 +26,7 @@
 </div>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonathan1313&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<img align="right" alt="Coding" width="100%" src="https://media.tenor.com/jN-MC4lRlsEAAAAC/anime-rain.gif">
   
 ## :paperclip: Contact 
 <div> 
