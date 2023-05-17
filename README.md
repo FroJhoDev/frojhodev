@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7800AC&width=435&lines=May+the+Force+be+with+you;First+learn+stand%2C+then+learn+fly;Life+moves+pretty+fast;There%E2%80%99s+no+place+like+home;Where+we%E2%80%99re+going+we+don%E2%80%99t+need+roads;Not+every+man+really+lives)](https://git.io/typing-svg)
 
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
 <div>
   <a href="https://github.com/jonathan1313">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=jonathan1313&show_icons=true&theme=tokyonight"/>
