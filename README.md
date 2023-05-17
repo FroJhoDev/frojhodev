@@ -7,6 +7,8 @@
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=jonathan1313&show_icons=true&theme=tokyonight"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight"/>
 </div>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonathan1313)](https://git.io/streak-stats)
 
  ![Snake animation](https://github.com/jonathan1313/jonathan1313/blob/output/github-contribution-grid-snake.svg)
 
