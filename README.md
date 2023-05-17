@@ -27,7 +27,7 @@
   
 <div>
   <a href="https://github.com/jonathan1313">
-   <img align="center" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=jonathan1313&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats"/>
+   <img align="center" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=jonathan1313&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D"/>
   <img align="center" height="200" src="https://media.tenor.com/jN-MC4lRlsEAAAAC/anime-rain.gif"/>
 </div>
   
