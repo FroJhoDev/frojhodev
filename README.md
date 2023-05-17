@@ -18,7 +18,7 @@
 <code><img height="40" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## Stats
+## :bar_chart: Stats
 <div>
   <a href="https://github.com/jonathan1313">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=jonathan1313&show_icons=true&theme=tokyonight"/>
@@ -27,7 +27,7 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonathan1313&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
   
-## Contact 
+## :paperclip: Contact 
 <div> 
   <a href="https://www.linkedin.com/in/jonathan-willian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/jonathan.w.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
