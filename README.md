@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7800AC&width=435&lines=May+the+Force+be+with+you;First+learn+stand%2C+then+learn+fly;Life+moves+pretty+fast;There%E2%80%99s+no+place+like+home;Where+we%E2%80%99re+going+we+don%E2%80%99t+need+roads;Not+every+man+really+lives)](https://git.io/typing-svg)
 
+## Skills
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
 <code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>    
-
 
 <div>
   <a href="https://github.com/jonathan1313">
@@ -17,6 +17,14 @@
 </div>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonathan1313&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+  
+## Contact 
+<div> 
+  <a href="https://www.linkedin.com/in/jonathan-willian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/jonathan.w.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+</div>
 
 <!--
 **jonathan1313/jonathan1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
