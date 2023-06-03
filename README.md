@@ -39,7 +39,7 @@
 </br>
 </div>
 
-## 🎵: I've Been Listening
+## 🎵 I've Been Listening
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22h36wmqxebyprvl6r6oeqsyi)
 
 <!--
