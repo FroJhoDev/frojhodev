@@ -22,7 +22,7 @@
 <div>
   <a href="https://github.com/jonathan1313">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=frojhodev&show_icons=true&theme=tokyonight"/>
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight"/>
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frojhodev&layout=donut&theme=tokyonight"/>
 </div>
   
 <div>
