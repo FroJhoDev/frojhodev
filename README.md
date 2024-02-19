@@ -21,13 +21,13 @@
 ## :bar_chart: Stats
 <div>
   <a href="https://github.com/jonathan1313">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=jonathan1313&show_icons=true&theme=tokyonight"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=frojhodev&show_icons=true&theme=tokyonight"/>
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight"/>
 </div>
   
 <div>
   <a href="https://github.com/jonathan1313">
-   <img align="center" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=jonathan1313&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D"/>
+   <img align="center" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=frojhodev&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D"/>
   <img align="center" height="200" src="https://media.tenor.com/jN-MC4lRlsEAAAAC/anime-rain.gif"/>
 </div>
   
